@@ -10,7 +10,7 @@ Accountability Accounting is interested in offering a new cryptocurrency investm
 The Elbow Curve shoes a k value of 4.  I will use 4 clusters to group the crytpocurrencies.
 ![Elbow](https://github.com/jakarohu/Cryptocurrencies/blob/main/Resources/ElbowCurve.jpg)
 
-### 3D Scatter Plot with PCA data & the Clusters
+### 3D Scatter Plot with PCA Data & Clusters
 ![3D](https://github.com/jakarohu/Cryptocurrencies/blob/main/Resources/3DScatter.jpg)
 
 ### 2D Scatter Plot
